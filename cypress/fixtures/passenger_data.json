@@ -1,25 +1,18 @@
 {
-  "TRAIN_NO": "12559",
+  "TRAIN_NO": "12618",
   "TRAIN_COACH": "SL",
-  "TRAVEL_DATE": "18/05/2024",
-  "SOURCE_STATION": "BSBS",
+  "TRAVEL_DATE": "29/05/2024",
+  "SOURCE_STATION": "BPL",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "NDLS",
-  "TATKAL": false,
+  "DESTINATION_STATION": "KHED",
+  "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "Meet Joysar",
+      "AGE": 21,
       "GENDER": "Male",
-      "SEAT": "No Preference",
-      "FOOD": "No Food"
-    },
-    {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
-      "GENDER": "Female",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     }
